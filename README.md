@@ -22,14 +22,7 @@ const nino = {
     currentFocus: "Learning web3",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
-```
-## <h3 align="left">GitHub Stats</h3>
 
-
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,prs_merged,prs_merged_percentage)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninichuh&layout=compact)
 
 <!---
 ninichuuh/ninichuuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
