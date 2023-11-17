@@ -1,16 +1,39 @@
-### Hi there 👋
+- 👋 Hi, I’m @ninichuuh
+- 👀 I’m interested in data, board games and technology.
 
-<!--
-**ninichuh/ninichuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- A little more about me...
 
-Here are some ideas to get you started:
+```javascript
+const nino = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Css", "Html5"],
+    askMeAbout: ["web dev", "tech", "app dev"],
+    technologies: {
+        backEnd: {
+            js: ["NodeJS","Express"],
+        },
+         fontEnd: {
+            js: ["ReactJS", "react-redux", "tailwind", "vue", "NextJS"] 
+        },
+        databases: ["mongoDB", "MySql", "sqlite", "Prisma"],
+        misc: ["Firebase",  "selenium"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Learning web3",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+## <h3 align="left">GitHub Stats</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+![ninichuuh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninichuuh&count_private=true&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninichuuh&layout=compact)
+
+<!---
+ninichuuh/ninichuuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
